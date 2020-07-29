@@ -1,4 +1,5 @@
 ## 🍵 🧘‍♂️ 🍵
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sensuikan1973&count_private=true&theme=tokyonight)
 At job, Server Engineer.  
 At home, Flutter/Firebase Enginner.  
 I like Othello.
