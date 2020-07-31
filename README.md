@@ -3,7 +3,7 @@
 
 ### Profile
 At job, **Server** Engineer.  
-At home, **Flutter/GCP/Firebase** Enginner.  
+At home, **Flutter/Firebase** Enginner.  
 I like **Othello**.
 
 ### Published applications
