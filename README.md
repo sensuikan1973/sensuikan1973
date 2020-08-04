@@ -4,7 +4,6 @@
 ### Profile
 At job, **Server** Engineer.  
 At home, **Flutter/Firebase** Enginner.  
-I like **Othello**.
 
 ### Published applications
 - [iOS](https://apps.apple.com/jp/developer/shimizu-naoki/id1308323177)
