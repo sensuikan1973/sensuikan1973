@@ -13,4 +13,4 @@ At home, **Flutter/Firebase** Enginner.
 ### Blog, Slide
 - [Medium](https://medium.com/@sensuikan1973)
 - [Qiita](https://qiita.com/sensuikan1973)
-- [Speakerdeck](https://speakerdeck.com/sensuikan1973/ffi-in-flutter)
+- [Speakerdeck](https://speakerdeck.com/sensuikan1973)
