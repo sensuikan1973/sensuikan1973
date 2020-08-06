@@ -10,6 +10,7 @@ At home, **Flutter/Firebase** Enginner.
 - [Android](https://play.google.com/store/apps/developer?id=Naoki+Shimizu&hl=ja)
 - [Others](https://done-sensuikan1973.com/programming)
 
-### Blog
+### Blog, Slide
 - [Medium](https://medium.com/@sensuikan1973)
 - [Qiita](https://qiita.com/sensuikan1973)
+- [Speakerdeck](https://speakerdeck.com/sensuikan1973/ffi-in-flutter)
