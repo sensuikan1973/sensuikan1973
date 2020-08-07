@@ -12,5 +12,5 @@ At home, **Flutter/Firebase** Enginner.
 
 ### Blog, Slide
 [![Medium](https://img.shields.io/badge/Medium-grey.svg?logo=Medium&color=black)](https://medium.com/@sensuikan1973)
-[![Qiita](https://img.shields.io/badge/Qiita-black.svg?logo=Qiita&color=black)](https://qiita.com/@sensuikan1973)
+[![Qiita](https://img.shields.io/badge/Qiita-black.svg?logo=Qiita&color=black)](https://qiita.com/sensuikan1973)
 [![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-009287.svg?logo=Speaker%20Deck&color=black)](https://speakerdeck.com/sensuikan1973)
