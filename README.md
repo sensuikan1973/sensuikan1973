@@ -3,7 +3,7 @@
 
 ### Profile
 At job, **Server** Engineer.  
-At home, Mobile/Web (**Flutter/Firebase**) Enginner.  
+At home, Mobile/Web app Enginner with **Flutter/Firebase**.
 
 ### Published applications, libraries
 [![iOS](https://img.shields.io/badge/iOS-black.svg?logo=Apple)](https://apps.apple.com/jp/developer/shimizu-naoki/id1308323177)
