@@ -7,6 +7,6 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black.svg?logo=GitHub%20Actions)](https://github.com/marketplace?type=actions&query=sensuikan1973)
 
 ### Blog, Slide
+[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-black.svg?logo=Speaker%20Deck)](https://speakerdeck.com/sensuikan1973)
 [![Medium](https://img.shields.io/badge/Medium-black.svg?logo=Medium)](https://medium.com/@sensuikan1973)
 [![Qiita](https://img.shields.io/badge/Qiita-black.svg?logo=Qiita)](https://qiita.com/sensuikan1973)
-[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-black.svg?logo=Speaker%20Deck)](https://speakerdeck.com/sensuikan1973)
