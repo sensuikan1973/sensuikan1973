@@ -1,5 +1,4 @@
 ## 🍵 🧘‍♂️ 🍵
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sensuikan1973&count_private=true&theme=tokyonight)
 
 ### Profile
 At job, Server Engineer.  
