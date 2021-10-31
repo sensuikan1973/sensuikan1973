@@ -11,3 +11,5 @@
 [![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-black.svg?logo=Speaker%20Deck)](https://speakerdeck.com/sensuikan1973)
 [![Medium](https://img.shields.io/badge/Medium-black.svg?logo=Medium)](https://medium.com/@sensuikan1973)
 [![Qiita](https://img.shields.io/badge/Qiita-black.svg?logo=Qiita)](https://qiita.com/sensuikan1973)
+
+<!-- my machine account is https://github.com/bot-by-sensuikan1973 -->
