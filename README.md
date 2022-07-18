@@ -7,6 +7,9 @@
 [![Dart Packages](https://img.shields.io/badge/Packages-black.svg?logo=Dart)](https://pub.dev/publishers/done-sensuikan1973.com/packages)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black.svg?logo=GitHub%20Actions)](https://github.com/marketplace?type=actions&query=sensuikan1973)
 
+### Certifications
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20|%20Professional%20Cloud%20Architect-black.svg?logo=Google%20Cloud)](https://www.credential.net/c92dd58f-df62-4343-8d58-bd8a331555e6)
+
 <!-- 
 ### Blog, Slide
 [![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-black.svg?logo=Speaker%20Deck)](https://speakerdeck.com/sensuikan1973)
