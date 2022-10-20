@@ -11,8 +11,8 @@
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20|%20Professional%20Cloud%20Architect-black.svg?logo=Google%20Cloud)](https://www.credential.net/c92dd58f-df62-4343-8d58-bd8a331555e6)
 
 ### Slide
-- FlutterKaigi 2020 | [Flutter Expensive Native Embedding Journey (en)](https://sensuikan1973.github.io/flutter_expensive_native_embedding_journey/)
-- Flutter Meetup Tokyo #10 | [FFI in Flutter/Dart (ja)](https://speakerdeck.com/sensuikan1973/ffi-in-flutter)
+- [FlutterKaigi 2022](https://flutterkaigi.jp/2022/) | [Flutter Expensive Native Embedding Journey (en)](https://sensuikan1973.github.io/flutter_expensive_native_embedding_journey/)
+- [Flutter Meetup Tokyo #10](https://flutter-jp.connpass.com/event/134921/) | [FFI in Flutter/Dart (ja)](https://speakerdeck.com/sensuikan1973/ffi-in-flutter)
 
 <!-- 
 ### Blog, Slide
