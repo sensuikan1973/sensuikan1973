@@ -12,7 +12,7 @@
 
 ### Slide
 - [FlutterKaigi 2022](https://flutterkaigi.jp/2022/) | [Flutter Expensive Native Embedding Journey (en)](https://sensuikan1973.github.io/flutter_expensive_native_embedding_journey/)
-- [Flutter Meetup Tokyo #10](https://flutter-jp.connpass.com/event/134921/) | [FFI in Flutter/Dart (ja)](https://speakerdeck.com/sensuikan1973/ffi-in-flutter)
+- [Flutter Meetup Tokyo #10 2019](https://flutter-jp.connpass.com/event/134921/) | [FFI in Flutter/Dart (ja)](https://speakerdeck.com/sensuikan1973/ffi-in-flutter)
 
 <!-- 
 ### Blog, Slide
