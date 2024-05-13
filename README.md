@@ -8,7 +8,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black.svg?logo=GitHub%20Actions)](https://github.com/marketplace?type=actions&query=sensuikan1973)
 
 ### Certifications
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20|%20Professional%20Cloud%20Architect-black.svg?logo=Google%20Cloud)](https://www.credential.net/c92dd58f-df62-4343-8d58-bd8a331555e6)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20|%20Professional%20Cloud%20Architect-black.svg?logo=Google%20Cloud)](https://www.credly.com/badges/1784f52e-defa-43aa-9222-5dcbc2fd26e0/public_url)
 
 ### Presentations
 - [Flutter Expensive Native Embedding Journey (en)](https://github.com/sensuikan1973/flutter_expensive_native_embedding_journey) at [FlutterKaigi 2022](https://flutterkaigi.jp/2022/)
