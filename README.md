@@ -23,3 +23,10 @@
 
 <!-- my machine account is https://github.com/bot-by-sensuikan1973 -->
 <!-- Medium https://medium.com/@sensuikan1973 -->
+
+<!--画像貼り付けのスニペット-->
+<!--
+|changeme|changeme|
+|---|---|
+|<img src="https://github.com/user-attachments/assets/changeme" height="300" />|<img src="https://github.com/user-attachments/assets/changeme" height="300" />|
+-->
