@@ -14,12 +14,5 @@
 - [Flutter Expensive Native Embedding Journey (en)](https://github.com/sensuikan1973/flutter_expensive_native_embedding_journey) at [FlutterKaigi 2022](https://flutterkaigi.jp/2022/)
 - [FFI in Flutter/Dart (ja)](https://speakerdeck.com/sensuikan1973/ffi-in-flutter) at [Flutter Meetup Tokyo #10 2019](https://flutter-jp.connpass.com/event/134921/)
 
-<!-- 
-### Blog, Slide
-[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-black.svg?logo=Speaker%20Deck)](https://speakerdeck.com/sensuikan1973)
-[![Medium](https://img.shields.io/badge/Medium-black.svg?logo=Medium)](https://medium.com/@sensuikan1973)
-[![Qiita](https://img.shields.io/badge/Qiita-black.svg?logo=Qiita)](https://qiita.com/sensuikan1973)
--->
-
 <!-- my machine account is https://github.com/bot-by-sensuikan1973 -->
 <!-- Medium https://medium.com/@sensuikan1973 -->
