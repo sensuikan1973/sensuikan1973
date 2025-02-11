@@ -15,4 +15,3 @@
 - [FFI in Flutter/Dart (ja)](https://speakerdeck.com/sensuikan1973/ffi-in-flutter) at [Flutter Meetup Tokyo #10 2019](https://flutter-jp.connpass.com/event/134921/)
 
 <!-- my machine account is https://github.com/bot-by-sensuikan1973 -->
-<!-- Medium https://medium.com/@sensuikan1973 -->
