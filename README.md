@@ -2,7 +2,7 @@
 
 ### Applications, Libraries
 [![iOS_and_MacOS](https://img.shields.io/badge/iOS,MacOS-black.svg?logo=Apple)](https://apps.apple.com/jp/developer/shimizu-naoki/id1308323177)
-[![Windows](https://img.shields.io/badge/Windows-black.svg?logo=Windows)](https://www.microsoft.com/ja-jp/search/shop/Games?q=Naoki+Shimizu)
+[![Windows](https://img.shields.io/badge/Windows-black.svg?logo=windows)](https://apps.microsoft.com/search/publisher?name=Naoki+Shimizu)
 [![Android](https://img.shields.io/badge/Android-black.svg?logo=Android)](https://play.google.com/store/apps/developer?id=Naoki+Shimizu)  
 [![Dart Packages](https://img.shields.io/badge/Dart%20Packages-black.svg?logo=Dart)](https://pub.dev/publishers/done-sensuikan1973.com/packages)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black.svg?logo=GitHub%20Actions)](https://github.com/marketplace?type=actions&query=sensuikan1973)
