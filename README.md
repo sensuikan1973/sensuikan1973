@@ -1,9 +1,9 @@
 ## 🍵 🧘‍♂️ 🍵
 
 ### Applications, Libraries
-[![MacOS_and_iOS](https://img.shields.io/badge/iOS,MacOS-black.svg?logo=Apple)](https://apps.apple.com/jp/developer/shimizu-naoki/id1308323177)
+[![MacOS_and_iOS](https://img.shields.io/badge/MacOS,iOS-black.svg?logo=Apple)](https://apps.apple.com/jp/developer/shimizu-naoki/id1308323177)
 [![Windows](https://custom-icon-badges.herokuapp.com/badge/Windows-black.svg?logo=Windows)](https://apps.microsoft.com/search/publisher?name=Naoki+Shimizu)
-[![Dart Packages](https://img.shields.io/badge/Dart%20Packages-black.svg?logo=Dart)](https://pub.dev/publishers/done-sensuikan1973.com/packages)
+[![Dart Packages](https://img.shields.io/badge/Dart%20Packages-black.svg?logo=Dart)](https://pub.dev/publishers/done-sensuikan1973.com/packages)  
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black.svg?logo=GitHub%20Actions)](https://github.com/marketplace?type=actions&query=sensuikan1973)
 [![Android](https://img.shields.io/badge/Android-black.svg?logo=Android)](https://play.google.com/store/apps/developer?id=Naoki+Shimizu)
 
