@@ -1,10 +1,10 @@
 ## 🍵 🧘‍♂️ 🍵
 
+I love Othello.
+
 ### Applications, Libraries
-[![MacOS_and_iOS](https://img.shields.io/badge/MacOS,iOS-black.svg?logo=Apple)](https://apps.apple.com/jp/developer/shimizu-naoki/id1308323177)
-[![Windows](https://custom-icon-badges.herokuapp.com/badge/Windows-black.svg?logo=Windows)](https://apps.microsoft.com/search/publisher?name=Naoki+Shimizu)
-[![Dart Packages](https://img.shields.io/badge/Dart%20Packages-black.svg?logo=Dart)](https://pub.dev/publishers/done-sensuikan1973.com/packages)  
-[![GitHub Actions](https://img.shields.io/badge/githubactions-black.svg?logo=githubactions)](https://github.com/marketplace?type=actions&query=sensuikan1973)
+
+I like building mobile apps, desktop apps, and CLI tools using Flutter and Dart.
 
 ### Certifications
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20|%20Professional%20Cloud%20Architect-black.svg?logo=Google%20Cloud)](https://www.credly.com/badges/44272426-8a82-40da-b023-c505f28bd363)
