@@ -1,9 +1,6 @@
 ## 🍵 🧘‍♂️ 🍵
 
-I love Othello.
-
-### Applications, Libraries
-
+I love Othello.  
 I like building mobile apps, desktop apps, and CLI tools using Flutter and Dart.
 
 ### Certifications
